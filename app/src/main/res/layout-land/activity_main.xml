@@ -47,7 +47,8 @@
                 android:id="@+id/button4"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="@string/btn_salir"/>
+                android:text="@string/btn_salir"
+                android:onClick="salirApp"/>
 
             <Button
                 android:id="@+id/button5"
